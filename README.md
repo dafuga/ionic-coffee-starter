@@ -31,7 +31,7 @@ If you get an error on running `gulp watch`, try `npm install -g gulp-cli`.
 Credit
 ---
 
-Most of the credit goes to [StephenGrider](https://github.com/StephenGrider/CoffeeScript-Ionic-Starter), I basically just updated dependencies since his code was breaking for me and a few others.
+Most of the credit goes to [StephenGrider](https://github.com/StephenGrider/CoffeeScript-Ionic-Starter), I basically just updated dependencies to make it work for me, but I figured that this might help others.
 
 
 
