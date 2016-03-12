@@ -25,7 +25,7 @@ angular.module('starter', [
   $stateProvider
     .state('app',
       url: '/app'
-      abstract: true
+      abstract: false
       templateUrl: 'templates/menu.html'
       controller: 'AppCtrl'
     )

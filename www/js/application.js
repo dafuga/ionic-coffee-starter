@@ -10,7 +10,7 @@ angular.module('starter', ['ionic', 'starter.controllers']).run(function($ionicP
 }).config(function($stateProvider, $urlRouterProvider) {
   $stateProvider.state('app', {
     url: '/app',
-    abstract: true,
+    abstract: false,
     templateUrl: 'templates/menu.html',
     controller: 'AppCtrl'
   }).state('app.search', {
